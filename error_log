@@ -1,0 +1,25 @@
+[09-Jul-2018 09:22:47 UTC] PHP Fatal error:  Call to undefined function len() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Rooms.php on line 36
+[09-Jul-2018 09:22:57 UTC] PHP Fatal error:  Call to undefined function len() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Rooms.php on line 36
+[10-Jul-2018 07:08:05 UTC] PHP Fatal error:  Call to undefined function checkTableUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 84
+[10-Jul-2018 07:11:25 UTC] PHP Fatal error:  Call to a member function getItemMaster() on null in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 35
+[11-Jul-2018 11:14:07 UTC] PHP Fatal error:  Using $this when not in object context in /home/z8r8atlq6lg9/public_html/hotel01/application/helpers/validationmisc_helper.php on line 7
+[11-Jul-2018 11:14:56 UTC] PHP Fatal error:  Using $this when not in object context in /home/z8r8atlq6lg9/public_html/hotel01/application/helpers/validationmisc_helper.php on line 7
+[11-Jul-2018 11:51:04 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Customers.php on line 86
+[12-Jul-2018 06:19:32 UTC] PHP Fatal error:  Call to a member function getHotelRoomBookingDetails() on null in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_room_booking_masters.php on line 33
+[12-Jul-2018 06:20:06 UTC] PHP Fatal error:  Call to a member function getHotelRoomBookingDetails() on null in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_room_booking_masters.php on line 33
+[14-Jul-2018 05:36:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_room_booking_masters.php on line 133
+[16-Jul-2018 07:10:54 UTC] PHP Fatal error:  Call to a member function getItemMaster() on null in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 114
+[16-Jul-2018 07:53:37 UTC] PHP Fatal error:  Call to a member function postItemMaster() on null in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 140
+[16-Jul-2018 09:37:31 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:37:32 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:37:33 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:37:33 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:37:33 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:24 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:25 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:25 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:25 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:25 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:26 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 09:38:31 UTC] PHP Fatal error:  Call to undefined function checkHotelUnique() in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Hotel_items.php on line 149
+[16-Jul-2018 11:38:48 UTC] PHP Fatal error:  Call to a member function postBar() on null in /home/z8r8atlq6lg9/public_html/hotel01/application/controllers/Bars.php on line 73
